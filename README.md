@@ -9,7 +9,7 @@ Topic: Fast and Accurate PPA Modelling Using Transfer Learning
 
 
 Abstract—Power, Performance and Area(PPA) needs to be
-considered while developing a System-On-Chip to improve performance, durability and reliability. This paper focuses on an
+considered while developing a System-On-Chip to improve performance, durability and reliability. This paper focuses on an
 accurate PPA estimation using Machine Learning models like
 Neural Networks, Decision Trees and Gradient Boost Regressor
 where Transfer Learning is used to train the model. Transfer
